@@ -1,7 +1,6 @@
 package net.william278.husktemplate;
 
 import org.bukkit.plugin.java.JavaPlugin;
-import org.bukkit.plugin.java.JavaPluginLoader;
 
 public class BukkitHuskTemplate extends JavaPlugin implements HuskTemplate {
 
