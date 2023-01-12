@@ -6,7 +6,7 @@ dependencies {
     implementation 'io.papermc:paperlib:1.0.8'
 
     compileOnly 'org.spigotmc:spigot-api:1.16.5-R0.1-SNAPSHOT'
-    compileOnly 'org.jetbrains:annotations:23.1.0'
+    compileOnly 'org.jetbrains:annotations:24.0.0'
     compileOnly 'de.themoep:minedown-adventure:1.7.2-SNAPSHOT'
     compileOnly 'commons-io:commons-io:2.11.0'
     compileOnly 'net.william278:Annotaml:2.0.1'
